@@ -1,42 +1,44 @@
 import photo1 from "../assets/photo1.jpg";
 import photo2 from  "../assets/photo2.jpg";
+import sklj from "../assets/sklj.jpg";
+import cplus from "../assets/cplus.png";
 
 const ProCardData = [
     {
-        imgsrc: photo1,
-        title: "Aptus", 
-        text: "Mobile Applications Development wgdegf cgrfleglx xzewdbe xbwelix dfwebdfcbwsdjfbwebfweb fwheofh",
-        source: "https://youtu.be/0h2b4ftbZcU",
+        imgsrc: sklj,
+        title: "Personal Portfolio Website", 
+        text: "React.js",
+        source: "https://github.com/imanaohran/imana-ohran-personal-portfolio",
     },
     {
-        imgsrc: photo2,
-        title: "Competition organization system njfču xascičwdfu xsziacgočwe cuwgeč", 
-        text: "Object Oriented Programming",
-        source: "https://youtu.be/0h2b4ftbZcU",
+        imgsrc: sklj,
+        title: "Competition organization system", 
+        text: "C++",
+        source: "https://github.com/imanaohran/competiton-organization",
     },
     {
-        imgsrc: photo2,
+        imgsrc: sklj,
+        title: "Aptus - Fitness Application", 
+        text: "C#",
+        source: "https://github.com/imanaohran/fitness-app",
+    },
+    {
+        imgsrc: sklj,
+        title: "Services web application", 
+        text: "JavaScript",
+        source: "https://github.com/imanaohran/services-web-app",
+    },
+    {
+        imgsrc: sklj,
+        title: "Inventory management system", 
+        text: "MERN",
+        source: "",
+    },
+    {
+        imgsrc: sklj,
         title: "Inventory management system", 
         text: "C++",
-        source: "https://youtu.be/0h2b4ftbZcU",
-    },
-    {
-        imgsrc: photo2,
-        title: "Inventory management system", 
-        text: "MERN PROJECT",
-        source: "https://youtu.be/0h2b4ftbZcU",
-    },
-    {
-        imgsrc: photo2,
-        title: "Inventory management system", 
-        text: "C++",
-        source: "https://youtu.be/0h2b4ftbZcU",
-    },
-    {
-        imgsrc: photo2,
-        title: "Inventory management system", 
-        text: "C++",
-        source: "https://youtu.be/0h2b4ftbZcU",
+        source: "",
     }
 ];
 

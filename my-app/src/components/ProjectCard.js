@@ -9,9 +9,8 @@ const ProjectCard = (props) => {
                 <h2 className="project-title">{props.title}</h2>
                 <div className="pro-details">
                     <p>{props.text}</p>
-                        <NavLink to={props.source} className="btn">Source</NavLink>
-                  
-                </div>
+                </div>    
+                <NavLink to={props.source} className="btn">Source</NavLink>
     </div>
   )
 };
