@@ -1,0 +1,65 @@
+.footer{
+    width: 100%;
+    padding: 6rem 0;
+    background-color: black;
+}
+
+.footer-container{
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+}
+
+.left{
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.mail{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.linkedin{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.github{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.right{
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.p1{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.p2{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+.p3{
+    display: flex;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 640px) {
+    .footer-container{
+        grid-template-columns: 1fr;
+    }
+}
