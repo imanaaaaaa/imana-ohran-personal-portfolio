@@ -10,7 +10,7 @@ const ProCardData = [
     },
     {
         imgsrc: photo2,
-        title: "Competition organization system", 
+        title: "Competition organization system njfču xascičwdfu xsziacgočwe cuwgeč", 
         text: "Object Oriented Programming",
         source: "https://youtu.be/0h2b4ftbZcU",
     },
